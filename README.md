@@ -30,12 +30,9 @@
 
 ### :man_technologist: О себе:
 Начинающий фронтенд разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
 - :open_book: Заканчиваю курс [Фронтенд-разработчик от Я.Практикум](https://practicum.yandex.ru/frontend-developer/). Изучаю в том числе и бэкенд.
-
-- :telescope: Рассматриваю варианты работы в качестве Frontend developer (junior).
-- :seedling: Создал [канал в телеграм](https://t.me/web_developer_bj) для начинающих веб-разработчиков.
 - :desktop_computer: Раньше работал разработчиком C++\C# под Windows и менеджером проектов.
+- :seedling: Создал [канал в телеграм](https://t.me/web_developer_bj) для начинающих веб-разработчиков.
 - :zap: В свободное время занимаюсь инвестированием в акции и читаю технические статьи.
 - :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-28A9EA?style=flat&logo=telegram&logoColor=white)](https://t.me/losbojos)
 
