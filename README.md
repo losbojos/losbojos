@@ -5,7 +5,7 @@
     <a href="https://vk.com/losbojos">
       <img src="https://img.shields.io/badge/-Vkontakte-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="VK Badge"/>
     </a>
-    <a href="https://t.me/web_developer_bj">
+    <a href="https://t.me/losbojos">
       <img src="https://img.shields.io/badge/Telegram-28A9EA?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/borisovev">
@@ -28,17 +28,17 @@
 
 </div>
 
-### :man_technologist: О себе:
+### :man_technologist: О себе
 Начинающий фронтенд разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :open_book: Заканчиваю курс [Фронтенд-разработчик от Я.Практикум](https://practicum.yandex.ru/frontend-developer/). Изучаю в том числе и бэкенд.
 - :desktop_computer: Раньше работал разработчиком C++\C# под Windows и менеджером проектов.
-- :seedling: Создал [канал в телеграм](https://t.me/web_developer_bj) для начинающих веб-разработчиков.
+- :seedling: Создал [канал в телеграм](https://t.me/web_developer_bj), где размещаю полезные материалы о WEB разработке.
 - :zap: В свободное время занимаюсь инвестированием в акции и читаю технические статьи.
 - :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-28A9EA?style=flat&logo=telegram&logoColor=white)](https://t.me/losbojos)
 
 ---
 
-### :hammer_and_wrench: Мой стек:
+### :hammer_and_wrench: Мой стек
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -57,11 +57,19 @@
 
 ---
 
-### :fire: Статистика:
+### :fire: Статистика
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=losbojos&theme=whatsapp-light)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=losbojos&layout=compact&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Блог
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **losbojos/losbojos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
