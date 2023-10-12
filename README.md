@@ -68,7 +68,10 @@
 ### :writing_hand: Блог
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
+- [Исследуем саундбар Yamaha YAS-109](https://habr.com/ru/companies/bizone/articles/762122/?utm_campaign=762122&utm_source=habrahabr&utm_medium=rss)
+- [«Импортозамещение» в видеонаблюдении. Часть первая: Si-Cam](https://habr.com/ru/articles/763588/?utm_campaign=763588&utm_source=habrahabr&utm_medium=rss)
+- [Я вижу как ты мусоришь со своего балкона](https://habr.com/ru/articles/758894/?utm_campaign=758894&utm_source=habrahabr&utm_medium=rss)
+- [Американская кровавая лотерея. Как работала мобилизация в США времён войны во Вьетнаме](https://habr.com/ru/articles/758674/?utm_campaign=758674&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
