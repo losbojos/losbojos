@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs every day at 3:55 am
+    - cron: '55 3 * * *'
   workflow_dispatch:
 
 jobs:
@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://habr.com/ru/rss/flows/develop/articles/top/yearly/?fl=ru"
+          feed_list: "https://habr.com/ru/rss/hubs/javascript/articles/rated10/?fl=ru"         
