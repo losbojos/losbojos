@@ -65,7 +65,7 @@
 
 ---
 
-### :writing_hand: Блог
+### :writing_hand: Блоги
 
 <!-- BLOG-POST-LIST:START -->
 - [Исследуем саундбар Yamaha YAS-109](https://habr.com/ru/companies/bizone/articles/762122/?utm_campaign=762122&utm_source=habrahabr&utm_medium=rss)
