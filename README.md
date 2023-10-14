@@ -5,8 +5,8 @@
     <a href="https://vk.com/losbojos">
       <img src="https://img.shields.io/badge/-Vkontakte-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="VK Badge"/>
     </a>
-    <a href="https://t.me/losbojos">
-      <img src="https://img.shields.io/badge/Telegram-28A9EA?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <a href="https://twitter.com/LosBojos">
+      <img src="https://img.shields.io/badge/Twitter-28A9EA?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/borisovev">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
