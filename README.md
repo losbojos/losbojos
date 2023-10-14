@@ -68,10 +68,10 @@
 ### :writing_hand: Блоги
 
 <!-- BLOG-POST-LIST:START -->
+- [Современный junior frontend developer на двух работах уровня middle с общей ЗП 400к. Реальность ли в 2023 году?](https://habr.com/ru/articles/767274/?utm_campaign=767274&utm_source=habrahabr&utm_medium=rss)
+- [«Нейрогород»: игра на знание JavaScript про фронтендерские баги](https://habr.com/ru/companies/kaspersky/articles/767218/?utm_campaign=767218&utm_source=habrahabr&utm_medium=rss)
 - [Кулинарный гид по Vue.js: всё о props](https://habr.com/ru/companies/simbirsoft/articles/765024/?utm_campaign=765024&utm_source=habrahabr&utm_medium=rss)
 - [React + Three.js. Создаём собственный 3D шутер. Часть 1](https://habr.com/ru/articles/764554/?utm_campaign=764554&utm_source=habrahabr&utm_medium=rss)
-- [Увеличиваем свою производительность в WebStorm / PhpStorm c помощью шаблонов](https://habr.com/ru/articles/764510/?utm_campaign=764510&utm_source=habrahabr&utm_medium=rss)
-- [Пристальный взгляд на отладку JavaScript приложений](https://habr.com/ru/companies/kaspersky/articles/760922/?utm_campaign=760922&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
