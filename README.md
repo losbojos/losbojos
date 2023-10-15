@@ -68,10 +68,10 @@
 ### :writing_hand: Блоги
 
 <!-- BLOG-POST-LIST:START -->
+- [Open-source блокнот Wolfram Language или как воссоздать минимальное ядро Mathematica на Javascript и не только](https://habr.com/ru/articles/767490/?utm_campaign=767490&utm_source=habrahabr&utm_medium=rss)
 - [Современный junior frontend developer на двух работах уровня middle с общей ЗП 400к. Реальность ли в 2023 году?](https://habr.com/ru/articles/767274/?utm_campaign=767274&utm_source=habrahabr&utm_medium=rss)
+- [Wolfram Language JavaScript Frontend](https://habr.com/ru/articles/766360/?utm_campaign=766360&utm_source=habrahabr&utm_medium=rss)
 - [«Нейрогород»: игра на знание JavaScript про фронтендерские баги](https://habr.com/ru/companies/kaspersky/articles/767218/?utm_campaign=767218&utm_source=habrahabr&utm_medium=rss)
-- [Кулинарный гид по Vue.js: всё о props](https://habr.com/ru/companies/simbirsoft/articles/765024/?utm_campaign=765024&utm_source=habrahabr&utm_medium=rss)
-- [React + Three.js. Создаём собственный 3D шутер. Часть 1](https://habr.com/ru/articles/764554/?utm_campaign=764554&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
