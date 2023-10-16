@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   schedule:
     # Runs every day at 3:55 am
-    - cron: '55 3 * * *'
+    #(turned off the schedule) - cron: '55 3 * * *'
   workflow_dispatch:
 
 jobs:
