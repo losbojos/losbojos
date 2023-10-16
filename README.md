@@ -2,12 +2,6 @@
   <img src="https://media.giphy.com/media/Cglm3JaOZFSOFYx1qY/giphy.gif" width="400"/>
   
   <div id="badges">
-    <a href="https://vk.com/losbojos">
-      <img src="https://img.shields.io/badge/-Vkontakte-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="VK Badge"/>
-    </a>
-    <a href="https://twitter.com/LosBojos">
-      <img src="https://img.shields.io/badge/Twitter-28A9EA?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
     <a href="https://www.linkedin.com/in/borisovev">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -62,17 +56,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=losbojos&theme=whatsapp-light)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=losbojos&layout=compact&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :writing_hand: Блоги
-
-<!-- BLOG-POST-LIST:START -->
-- [Open-source блокнот Wolfram Language или как воссоздать минимальное ядро Mathematica на Javascript и не только](https://habr.com/ru/articles/767490/?utm_campaign=767490&utm_source=habrahabr&utm_medium=rss)
-- [Современный junior frontend developer на двух работах уровня middle с общей ЗП 400к. Реальность ли в 2023 году?](https://habr.com/ru/articles/767274/?utm_campaign=767274&utm_source=habrahabr&utm_medium=rss)
-- [Wolfram Language JavaScript Frontend](https://habr.com/ru/articles/766360/?utm_campaign=766360&utm_source=habrahabr&utm_medium=rss)
-- [«Нейрогород»: игра на знание JavaScript про фронтендерские баги](https://habr.com/ru/companies/kaspersky/articles/767218/?utm_campaign=767218&utm_source=habrahabr&utm_medium=rss)
-<!-- BLOG-POST-LIST:END -->
 
 <!--
 **losbojos/losbojos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
