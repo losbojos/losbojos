@@ -23,12 +23,12 @@
 </div>
 
 ### :man_technologist: О себе
-Frontend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :open_book: Закончил курс [Веб-разработчик от Я.Практикум](https://practicum.yandex.ru/frontend-developer/) и продолжаю погружение в специальность на pet-проектах.
+Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :open_book: Закончил курс [веб-разработчик от Я.Практикум](https://practicum.yandex.ru/frontend-developer/) и продолжаю погружение в специальность на pet-проектах.
 - :desktop_computer: Раньше работал разработчиком C++\C# под Windows и менеджером проектов.
 - :seedling: Создал [канал в телеграм](https://t.me/frontend_ok), где размещаю полезные материалы о Frontend разработке.
-- :rocket: В поиске постоянной работы [frontend developer](https://novosibirsk.hh.ru/resume/ef8ea3d8ff0bf88cf90039ed1f796931617570).
-- :zap: В свободное время занимаюсь инвестированием в акции и читаю технические статьи.
+- :rocket: В поиске постоянной работы [frontend web developer](https://career.habr.com/eborisov).
+- :zap: В свободное время читаю технические статьи, интересуюсь рынком акций.
 - :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-28A9EA?style=flat&logo=telegram&logoColor=white)](https://t.me/losbojos)
 
 ---
