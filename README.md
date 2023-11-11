@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Cglm3JaOZFSOFYx1qY/giphy.gif" width="400"/>
-  
+  <img src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif" width="400"/>
+    
   <div id="badges">
     <a href="https://www.linkedin.com/in/borisovev">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -23,10 +23,11 @@
 </div>
 
 ### :man_technologist: О себе
-Начинающий фронтенд разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :open_book: Заканчиваю курс [Фронтенд-разработчик от Я.Практикум](https://practicum.yandex.ru/frontend-developer/). Изучаю в том числе и бэкенд.
+Frontend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :open_book: Закончил курс [Веб-разработчик от Я.Практикум](https://practicum.yandex.ru/frontend-developer/) и продолжаю погружение в специальность на pet-проектах.
 - :desktop_computer: Раньше работал разработчиком C++\C# под Windows и менеджером проектов.
 - :seedling: Создал [канал в телеграм](https://t.me/frontend_ok), где размещаю полезные материалы о Frontend разработке.
+- :rocket: В поиске постоянной работы [frontend developer](https://novosibirsk.hh.ru/resume/ef8ea3d8ff0bf88cf90039ed1f796931617570).
 - :zap: В свободное время занимаюсь инвестированием в акции и читаю технические статьи.
 - :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-28A9EA?style=flat&logo=telegram&logoColor=white)](https://t.me/losbojos)
 
