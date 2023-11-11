@@ -24,7 +24,7 @@
 
 ### :man_technologist: О себе
 Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :open_book: Закончил курс [веб-разработчик от Я.Практикум](https://practicum.yandex.ru/frontend-developer/) и продолжаю погружение в специальность на pet-проектах.
+- :open_book: Закончил курс [веб-разработчик от Я.Практикум](https://practicum.yandex.ru/web/) и продолжаю погружение в специальность на pet-проектах.
 - :desktop_computer: Раньше работал разработчиком C++\C# под Windows и менеджером проектов.
 - :seedling: Создал [канал в телеграм](https://t.me/frontend_ok), где размещаю полезные материалы о Frontend разработке.
 - :rocket: В поиске постоянной работы [frontend web developer](https://career.habr.com/eborisov).
