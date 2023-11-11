@@ -26,7 +26,7 @@
 Начинающий фронтенд разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :open_book: Заканчиваю курс [Фронтенд-разработчик от Я.Практикум](https://practicum.yandex.ru/frontend-developer/). Изучаю в том числе и бэкенд.
 - :desktop_computer: Раньше работал разработчиком C++\C# под Windows и менеджером проектов.
-- :seedling: Создал [канал в телеграм](https://t.me/web_developer_bj), где размещаю полезные материалы о WEB разработке.
+- :seedling: Создал [канал в телеграм](https://t.me/frontend_ok), где размещаю полезные материалы о Frontend разработке.
 - :zap: В свободное время занимаюсь инвестированием в акции и читаю технические статьи.
 - :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-28A9EA?style=flat&logo=telegram&logoColor=white)](https://t.me/losbojos)
 
