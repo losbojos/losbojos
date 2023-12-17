@@ -28,7 +28,7 @@ Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 - :desktop_computer: Раньше работал разработчиком C++\C# под Windows и менеджером проектов.
 - :level_slider: Работаю над сайтом компании кастомных акустических систем, участвую в pet-проекте сервиса поздравлений.
 - :rocket: В поиске постоянной работы [frontend web developer](https://career.habr.com/eborisov).
-- :zap: В свободное время читаю технические статьи на [habr](https://habr.com/ru/articles/) и [medium](https://medium.com/), интересуюсь рынком акций.
+- :zap: В свободное время читаю технические статьи на [habr](https://habr.com/ru/articles/) и [medium](https://medium.com/), интересуюсь фондовым рынком.
 - :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-28A9EA?style=flat&logo=telegram&logoColor=white)](https://t.me/losbojos)
 
 ---
