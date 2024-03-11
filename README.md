@@ -25,8 +25,8 @@
 ### :man_technologist: О себе
 Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :open_book: Закончил курс [веб-разработчик от Яндекс.Практикум](https://practicum.yandex.ru/web/) в 2023 году.
-- :level_slider: Разработал с командой сайт кастомных акустических систем: [демо](https://e-borisov-web-portfolio-articus.vercel.app/)
-- :teacher: Работаю фронтендером в стартапе [образовательной платформы для школьников](https://kuzovkin.info/).
+- :level_slider: Разработал с командой сайт кастомных акустических систем: [демо](https://e-borisov-web-portfolio-articus.vercel.app/).
+- :teacher: Работаю фронтендером в стартапе [образовательной платформы](https://kuzovkin.info/).
 - :rocket: Рассматриваю предложения постоянной работы [frontend web developer](https://career.habr.com/eborisov). Кроме этого могу разработать ваш сайт, собрать необходимую команду под ваш web\mobile проект любой сложности.
 - :desktop_computer: Раньше работал разработчиком C++\C# под Windows и менеджером проектов.
 - :zap: В свободное время интересуюсь фондовым рынком, занимаюсь Крав-Мага.
@@ -43,6 +43,9 @@ Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;   
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
