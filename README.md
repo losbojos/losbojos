@@ -24,11 +24,12 @@
 
 ### :man_technologist: О себе
 Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :open_book: Закончил курс [веб-разработчик от Я.Практикум](https://practicum.yandex.ru/web/).
+- :open_book: Закончил курс [веб-разработчик от Яндекс.Практикум](https://practicum.yandex.ru/web/) в 2023 году.
+- :level_slider: Разработал с командой сайт кастомных акустических систем: [демо](https://e-borisov-web-portfolio-articus.vercel.app/)
+- :teacher: Работаю фронтендером в стартапе [образовательной платформы для школьников](https://kuzovkin.info/).
+- :rocket: Рассматриваю предложения постоянной работы [frontend web developer](https://career.habr.com/eborisov). Кроме этого могу разработать ваш сайт, собрать необходимую команду под ваш web\mobile проект любой сложности.
 - :desktop_computer: Раньше работал разработчиком C++\C# под Windows и менеджером проектов.
-- :level_slider: Работаю над сайтом компании кастомных акустических систем, участвую в pet-проекте сервиса поздравлений.
-- :rocket: В поиске постоянной работы [frontend web developer](https://career.habr.com/eborisov).
-- :zap: В свободное время читаю технические статьи на [habr](https://habr.com/ru/articles/) и [medium](https://medium.com/), интересуюсь фондовым рынком.
+- :zap: В свободное время интересуюсь фондовым рынком, занимаюсь Крав-Мага.
 - :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-28A9EA?style=flat&logo=telegram&logoColor=white)](https://t.me/losbojos)
 
 ---
