@@ -23,13 +23,13 @@
 </div>
 
 ### :man_technologist: О себе
-Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :open_book: Закончил курс [веб-разработчик от Яндекс.Практикум](https://practicum.yandex.ru/web/) в 2023 году.
-- :level_slider: Разработал с командой сайт кастомных акустических систем: [демо](https://e-borisov-web-portfolio-articus.vercel.app/).
-- :teacher: Работаю фронтендером в стартапе [образовательной платформы](https://kuzovkin.info/).
-- :rocket: Рассматриваю предложения постоянной работы [frontend web developer](https://career.habr.com/eborisov). Кроме этого могу разработать ваш сайт\приложение или собрать необходимую команду под ваш web\mobile\desktop проект любой сложности.
-- :desktop_computer: Раньше работал разработчиком C++\C# под Windows и менеджером проектов.
-- :zap: В свободное время интересуюсь фондовым рынком, занимаюсь Крав-Мага.
+Fullstack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :open_book: Закончил курс [веб-разработчик от Яндекс.Практикум](https://practicum.yandex.ru/web/) в 2023 году. Разработал с командой сайт кастомных акустических систем: [демо](https://e-borisov-web-portfolio-articus.vercel.app/). Работал фронтендером в стартапе [образовательной платформы](https://kuzovkin.info/)
+- :hearts: Работаю в Gamedev [Fullstack web developer](https://career.habr.com/eborisov).
+- :desktop_computer: В IT с 2002 года. Раньше работал разработчиком C++\C# под Windows и менеджером проектов.
+- :rocket: Разработаю ваш сайт\приложение или соберу необходимую команду под ваш web\mobile\desktop проект любой сложности.
+- :zap: В свободное время интересуюсь фондовым рынком и инвестициями.
+- :teacher: Веду заметки о WEB-разработке в канале [Webok.JS](https://t.me/webokjs).
 - :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-28A9EA?style=flat&logo=telegram&logoColor=white)](https://t.me/losbojos)
 
 ---
