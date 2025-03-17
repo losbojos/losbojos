@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif" width="400"/>
-    
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc3NGo3eDVhMDBxd2poemk2YWQ1OGFyYnQyenhhbDA5N3h3YXhyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width="400"/>
+      
   <div id="badges">
     <a href="https://www.linkedin.com/in/borisovev">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
