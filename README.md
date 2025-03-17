@@ -25,7 +25,7 @@
 ### :man_technologist: О себе
 Fullstack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :open_book: Закончил курс [веб-разработчик от Яндекс.Практикум](https://practicum.yandex.ru/web/) в 2023 году. Разработал с командой сайт кастомных акустических систем: [демо](https://e-borisov-web-portfolio-articus.vercel.app/). Работал фронтендером в стартапе [образовательной платформы](https://kuzovkin.info/) и [bs-rko](https://bs-rko.ru)
-- :hearts: Работаю в Gamedev [Fullstack web developer](https://career.habr.com/eborisov). Разрабатываю [игру](https://vk.com/app52210775) на движке [Phaser](https://phaser.io/),
+- :hearts: Сейчас работаю в Gamedev [Fullstack web developer](https://career.habr.com/eborisov). Разработал в команде с дизайнером и художником [игру "Арбуз Суйка"](https://vk.com/app52210775) на движке [Phaser](https://phaser.io/) и React.
 - :desktop_computer: В IT с 2002 года. Раньше работал разработчиком C++\C# под Windows и менеджером проектов.
 - :rocket: Разработаю ваш сайт\приложение или соберу необходимую команду под ваш web\mobile\desktop проект любой сложности.
 - :zap: В свободное время интересуюсь фондовым рынком и инвестициями.
