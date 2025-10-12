@@ -28,7 +28,7 @@ Fullstack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - :hearts: Сейчас работаю в Gamedev [Fullstack web developer](https://career.habr.com/eborisov). Разработал в команде с дизайнером и художником [игру "Арбуз Суйка"](https://vk.com/app52210775) на движке [Phaser](https://phaser.io/) и React.
 - :desktop_computer: В IT с 2002 года. Раньше работал разработчиком C++\C# под Windows и менеджером проектов.
 - :rocket: Разработаю ваш сайт\приложение или соберу необходимую команду под ваш web\mobile\desktop проект любой сложности.
-- :zap: В свободное время интересуюсь фондовым рынком и инвестициями.
+- :zap: В свободное время интересуюсь инвестициями, занимаюсь спортом и крав-мага.
 - :teacher: Веду заметки о WEB-разработке в канале [Webok.JS](https://t.me/webokjs).
 - :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-28A9EA?style=flat&logo=telegram&logoColor=white)](https://t.me/losbojos)
 
