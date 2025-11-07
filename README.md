@@ -24,13 +24,14 @@
 
 ### :man_technologist: О себе
 Fullstack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :open_book: Закончил курс [веб-разработчик от Яндекс.Практикум](https://practicum.yandex.ru/web/) в 2023 году. Разработал с командой сайт кастомных акустических систем: [демо](https://e-borisov-web-portfolio-articus.vercel.app/). Работал фронтендером в стартапе [образовательной платформы](https://kuzovkin.info/) и [bs-rko](https://bs-rko.ru)
-- :hearts: Сейчас работаю в Gamedev [Fullstack web developer](https://career.habr.com/eborisov). Разработал в команде с дизайнером и художником [игру "Арбуз Суйка"](https://vk.com/app52210775) на движке [Phaser](https://phaser.io/) и React.
-- :desktop_computer: В IT с 2002 года. Раньше работал разработчиком C++\C# под Windows и менеджером проектов.
+- :hearts: Работаю в Gamedev [Fullstack web developer](https://career.habr.com/eborisov) над [игрой "Арбуз Суйка"](https://vk.com/app52210775) на движке [Phaser](https://phaser.io/) и React.
+- :open_book: Ранее работал фронтендером в стартапе [образовательной платформы](https://kuzovkin.info/) и [bs-rko](https://bs-rko.ru)
+- :desktop_computer: Еще раньше работал разработчиком C++\C# под Windows.
+- :cowboy_hat_face: Развитые организаторские способности, опыт тимлидерства и управления проектами.
 - :rocket: Разработаю ваш сайт\приложение или соберу необходимую команду под ваш web\mobile\desktop проект любой сложности.
 - :zap: В свободное время интересуюсь инвестициями, занимаюсь спортом и крав-мага.
-- :teacher: Веду заметки о WEB-разработке в канале [Webok.JS](https://t.me/webokjs).
-- :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-28A9EA?style=flat&logo=telegram&logoColor=white)](https://t.me/losbojos)
+- :teacher: Веду заметки о WEB-разработке в канале [Webok.JS](https://t.me/webokjs). О личном в канале [Human-machine](https://t.me/man2love1)
+- :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-28A9EA?style=flat&logo=telegram&logoColor=white)](https://t.me/evbro)
 
 ---
 
