@@ -29,7 +29,7 @@ Fullstack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - :desktop_computer: Еще раньше работал разработчиком C++\C# под Windows.
 - :cowboy_hat_face: Развитые организаторские способности, опыт тимлидерства и управления проектами.
 - :rocket: Разработаю ваш сайт\приложение или соберу необходимую команду под ваш web\mobile\desktop проект любой сложности.
-- :zap: В свободное время интересуюсь инвестициями, занимаюсь спортом и крав-мага.
+- :zap: В свободное время интересуюсь развивающими играми, занимаюсь спортом и семьей.
 - :teacher: Веду заметки о WEB-разработке в канале [Webok.JS](https://t.me/webokjs). О личном в канале [Human-machine](https://t.me/man2love1)
 - :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-28A9EA?style=flat&logo=telegram&logoColor=white)](https://t.me/evbro)
 
